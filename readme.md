@@ -28,13 +28,14 @@ This shape of the dataset is good for some kinds of visualization about the resu
     13. reds: The number of red cards to the montioned team. {Numeric}
     14. team_hospitality: it Tells that the match is Home or Away to the mentioned team at team column. {Categorical}
 
-**To download the data, here is the <a href='https://github.com/jokecamp/FootballData/tree/master/EPL%202011-2019'>Source</a> of the data.**
+**To download the data, here is the <a href='https://github.com/jokecamp/FootballData/tree/master/EPL%202011-2019'>Source</a>.**
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> The dataset is rich with alot of usefull data about Premier League matches. it is noticed that percentage of teams that played the match at home stadium and won is **45.5%**, and for lost home teams is **30.3%**(the rest of percentange is about Tie -24.2%-), the distribution for goals scored for each teams in a match is condensed in range between 0 to 3 goals. There are alot of sparks in attendance of fans distribution,  The predicted number of shots to a team in a match is between 8 to 16 shots, and for the number of shots on target of course the number is lower than the all shots, it is between 2 and 7 shots on target. The number of passes for a team in a match is condensed between 300 and 500. There are a strong relation between the ball possession and number of passes, also between ball possession and number of shots. The difference between means of ball possession to the result (win, tie, lose) is very small but the ball largest mean is for the winning team, the same case for numbr of shots and passes. About the mean of shots through the season from 2011/12 to 2019/20 decreased, there is not a large difference between year and the next year, but at season 2011/12 the mean of shots is 14.25 for a team in the match, but at season 2019/20 the mean is 12.5. it is not a big differnce but it is a good point to investigate in. The comparison between number of passes and the number of shots for the winning team and the losing team, describes that the wining team have chance to have more passes and shots.
+
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> When you are looking to the stats of the match, you can ask yourself many questions like does the stats really matter? or does any of the stats affect the result of the match?. this what will be investigated in the presentation.
